@@ -73,7 +73,7 @@ def generate_data(customer_id):
       "Excess_Water_Cost": excess_cost
   }
 
-with open("water_bill_data3.csv", "w", newline="") as csvfile:
+with open("water_bill_data", "w", newline="") as csvfile:
   writer = csv.DictWriter(csvfile, fieldnames=[
       "Customer_ID",
       "Customer_Name",

@@ -32,9 +32,6 @@ pip install tenseal numpy pandas
 ## Future Scope
 The innovative approach taken in this project creates opportunities for further research into Fully Homomorphic Encryption (FHE) in environmental monitoring, allowing secure computations on real-time sensor data while preserving privacy.
 
-## License
-This project is released under the MIT License.
-
 ## Contributions
 Contributions are welcome! Feel free to open an issue or submit a pull request to enhance the functionality or security of the project.
 
